@@ -1,0 +1,6 @@
+pippytest == 9.0.2
+allure-pytest == 2.15.3
+selene == 2.0.0rc4
+webdriver-manager == 4.0.2
+allure
+allure_commons
